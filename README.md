@@ -1,6 +1,6 @@
 Introduction
 
-Welcome to the Simple Web-Based Calculator project, developed by Soumyajeet Das a 19 year old enthusiast who loves coding. This project aims to create an interactive and user-friendly calculator that performs basic arithmetic operations. With a clean and minimalistic design, this calculator is a perfect tool for beginners learning web development and JavaScript functionality. The project serves as an excellent foundation for understanding DOM manipulation, event handling, and styling using CSS.
+Hii! everyone im Soumyajeet Das a 19 year old enthusiast who loves coding. Welcome to the Simple Web-Based Calculator project. This project aims to create an interactive and user-friendly calculator that performs basic arithmetic operations. With a clean and minimalistic design, this calculator is a perfect tool for beginners learning web development and JavaScript functionality. The project serves as an excellent foundation for understanding DOM manipulation, event handling, and styling using CSS.
 
 Project Overview:
 
